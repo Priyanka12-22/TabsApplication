@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Glynk Tab Task</string>
+    <string name="sports">Sports</string>
+    <string name="technologies">Technologies</string>
+    <string name="design">Design</string>
+    <string name="politics">Politics</string>
+    <string name="movies">Movies</string>
+</resources>
